@@ -35,6 +35,7 @@ Create an IAM role with the following policies:
 - `AmazonSSMManagedInstanceCore`
 - `AmazonSSMFullAccess`
 - `CloudWatchLogsFull`
+- `AmazonSSMManagedEC2InstanceDefaultPolicy`
 
 ### 2. Setup Amazon Linux Instances
 
